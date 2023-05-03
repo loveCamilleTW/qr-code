@@ -19,7 +19,7 @@ main {
   align-items: center;
 
   font-family: "Outfit", sans-serif;
-  height: 100vh;
+  min-height: 100vh
 }
 
 .card {
