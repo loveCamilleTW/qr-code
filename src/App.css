@@ -18,21 +18,21 @@ main {
   justify-content: center;
   align-items: center;
 
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   height: 100vh;
 }
 
 .card {
   background-color: var(--white);
   border-radius: 0.625rem;
-	max-width: 20rem;
-	padding: 1rem;
-	margin-bottom: 1rem;
+  max-width: 20rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 h1 {
   color: var(--dark-blue);
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   font-weight: 700;
   font-size: 1.375rem;
   text-align: center;
@@ -43,7 +43,7 @@ h1 {
 p {
   color: var(--grayish-blue);
   text-align: center;
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.25rem;
@@ -51,9 +51,9 @@ p {
 }
 
 img {
-	width: 100%;
-	border-radius: 0.625rem;
-	max-height: 18rem;
-	max-width: 18rem;
+  width: 100%;
+  border-radius: 0.625rem;
+  max-height: 18rem;
+  max-width: 18rem;
   margin-bottom: 1rem;
 }
